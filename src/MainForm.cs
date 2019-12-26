@@ -638,8 +638,8 @@ namespace SharpBrowser {
 				} else {
 
 					browser = CurBrowser;
-
-					SetFormURL(browser.Address);
+                    e.Item.Controls.Add(PanelToolbar);
+                    SetFormURL(browser.Address);
 					SetFormTitle(browser.Tag.ConvertToString() ?? "New Tab");
 
 

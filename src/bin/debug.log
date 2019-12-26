@@ -1367,3 +1367,26 @@ C:\fakepath(95,10-42): warning X3571: pow(f, e) will not work for negative f, us
 [0222/114930.472:INFO:CONSOLE(0)] "[.WebGL-08E04010]RENDER WARNING: there is no texture bound to the unit 0", source: https://alteredqualia.com/three/examples/webgl_pasta.html (0)
 [0222/114930.473:INFO:CONSOLE(0)] "[.WebGL-08E04010]RENDER WARNING: there is no texture bound to the unit 0", source: https://alteredqualia.com/three/examples/webgl_pasta.html (0)
 [0222/114930.474:INFO:CONSOLE(0)] "WebGL: too many errors, no more errors will be reported to the console for this context.", source: https://alteredqualia.com/three/examples/webgl_pasta.html (0)
+[1226/124113.786:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[1226/124114.065:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[1226/130222.031:ERROR:broker_win.cc(137)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1226/130832.522:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[1226/130833.727:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?hl=en&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26action_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26app%3Ddesktop&uilel=3&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[1226/130834.788:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1226/130836.692:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: sharpbrowser://storage/errors/cannotConnect.html (1)
+[1226/130836.718:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflX047bV/network.js (15)
+[1226/130844.657:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[1226/131003.416:INFO:CONSOLE(48)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=riseTQ5AClU (48)
+[1226/131003.684:INFO:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[1226/131003.721:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1226/131003.879:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: sharpbrowser://storage/errors/cannotConnect.html (1)
+[1226/131009.477:INFO:CONSOLE(0)] "The resource https://r1---sn-tv0cgv5qc5oq-2o9l.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[1226/131009.477:INFO:CONSOLE(0)] "The resource https://r1---sn-tv0cgv5qc5oq-2o9l.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[1226/131009.477:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[1226/131009.944:WARNING:angle_platform_impl.cc(52)] compileToBinary(232): 
+C:\fakepath(65,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1226/131050.901:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflX047bV/network.js (15)
+[1226/131312.535:WARNING:backend_impl.cc(1843)] Destroying invalid entry.
+[1226/131336.664:WARNING:backend_impl.cc(1635)] Messed up entry found.
